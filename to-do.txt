@@ -12,6 +12,7 @@
 * support testing run once initialization code e.g. class Foo {{...}}
 * Automatically add failing tests to the Known Defects section of the README.html
 
+
 * Create assume(that()) and assert(that()) 
   (what is a better name for the second one?)
   
@@ -25,3 +26,6 @@
   the adapted Runner.
   
 * Every time I add a Filter feature, I have to add an equivalent Sorter feature.  Suspicious.
+
+
+* 2019-10-07: build message error fixed
